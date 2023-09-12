@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Nathael/Documents/GitHub/unreal_nolan/nolan_coproject/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
-				"C:/Users/Nathael/Documents/GitHub/unreal_nolan/nolan_coproject/Content/FPWeapon/Mesh/FirstPersonProjectileMesh.uasset"
+				"C:/Users/Nathael/Documents/GitHub/unreal_nolan/nolan_coproject/Content/FPWeapon/Mesh/FirstPersonProjectileMesh.uasset",
+				"C:/Users/Nathael/Documents/GitHub/unreal_nolan/nolan_coproject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/RN/55P1SMQLAF7OK6300D5I8N.uasset"
 			]
 		}
 	]
